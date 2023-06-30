@@ -1,7 +1,7 @@
 # Automação Residencial - Projeto Domótico (Hi Home)
 
 Bem-vindo(a) ao repositório do projeto de automação residencial, uma jornada que iniciei em 2010/2015 com o uso de microcontroladores ATmega328 e ATmega2560. O objetivo era controlar toda a casa com módulos sem fio, gerando econômia e evitando cortes em paredes e gessos para passagem de cabeamento e proporcionando comodidade aos moradores. 
-Apesar do projeto ter sido descontinuado por motivos de fomento, meu objetivo principal neste repositório é mostrar um pouco de como foi feito, os recuros utilizados na época, o que oferecia, dados técnicos e etc.
+Apesar do projeto ter sido descontinuado por motivos de fomento, meu objetivo principal neste repositório é mostrar um pouco de como foi feito, os recuros utilizados na época, o que oferecia, dados técnicos e etc.<br>
 
 Apesar de ter perdido muito material de desenvolvimento ao longo dos anos consegui reunir algum material para uma humilde apresentação.
 
