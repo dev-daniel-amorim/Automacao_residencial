@@ -46,9 +46,8 @@ E mais protótipos de caixas plasticas:
 ![PROJETO CENTRAL](https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/491f262f-e814-491e-a644-61a22c60e544)
 
 
-# Circuitos
 
-### Módulo Central:
+# Módulo Central:
 
 ![IMG-20230630-WA0053](https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/d7fb635e-9837-429b-a40f-a68df4f75d2d)
 
@@ -57,15 +56,13 @@ E mais protótipos de caixas plasticas:
 ![minha-placa](https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/b6e04f70-626e-4140-81c5-7621fd6ea297)
 
 
-### Módulo relé wifi (prototipo):
+# Módulo relé wifi (prototipo):
 
 ![IMG-20230630-WA0033](https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/a1a2eeb6-a988-4d36-9bd5-1159e18946c0)
 
 ![IMG-20230630-WA0034](https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/c737442c-6e6b-4523-b388-f543a898eaa4)
 
 ![IMG_20150424_171312](https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/8eb25a58-5b4a-4473-bb9c-cc7084d5b64c)
-
-Circuitos:
 
 ![placa rele](https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/77d301c2-b4bc-4604-ae53-c76860799d5d)
 
@@ -74,7 +71,7 @@ Circuitos:
 ![Circuito Rele sem leds](https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/2d2144ed-238e-4ac1-a54b-bd2289ff8d3c)
 
 
-### Módulo dimmer WiFi:
+# Módulo dimmer WiFi:
 
 ![IMG-20230630-WA0039](https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/9799d05e-5316-477e-bd87-6daca5b7fb77)
 
@@ -83,7 +80,7 @@ Circuitos:
 ![dimer](https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/a268b762-5035-4721-acc6-20f882049b89)
 
 
-### Módulo Infra-vermelho:
+# Módulo Infra-vermelho:
 
 ![IMG-20230630-WA0019](https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/be3e0987-0c2f-4860-9bb4-7b7eee6a7ba2)
 
