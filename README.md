@@ -8,6 +8,7 @@ A automação residencial é um conceito apaixonante que combina tecnologia e co
 
 # Recursos Principais
 
+
 ### Controle via WiFi
 Graças à conectividade WiFi, você pode controlar todos os aspectos da sua casa remotamente. Imagine chegar em casa e ter a iluminação perfeita, a temperatura ideal e a música ambiente favorita, tudo configurado antes mesmo de abrir a porta. Com um smartphone conectado a 3g ou WiFI você poderia acessar todos esses recursos, o que era tecnologia muito avançado pra época.
 
