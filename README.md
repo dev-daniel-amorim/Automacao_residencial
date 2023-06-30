@@ -55,6 +55,10 @@ E mais protótipos de caixas plasticas:
 
 ### Módulo relé wifi (prototipo):
 
+![IMG-20230630-WA0033](https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/a1a2eeb6-a988-4d36-9bd5-1159e18946c0)
+
+![IMG-20230630-WA0034](https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/c737442c-6e6b-4523-b388-f543a898eaa4)
+
 ![IMG_20150424_171312](https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/8eb25a58-5b4a-4473-bb9c-cc7084d5b64c)
 
 Circuitos:
@@ -68,11 +72,26 @@ Circuitos:
 
 ### Módulo dimmer WiFi:
 
+![IMG-20230630-WA0039](https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/9799d05e-5316-477e-bd87-6daca5b7fb77)
+
+![IMG-20230630-WA0036](https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/24b0c6e8-610e-428a-9428-99c8897fbb08)
+
 ![dimer](https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/a268b762-5035-4721-acc6-20f882049b89)
 
 
+### Módulo Infra-vermelho:
 
+![IMG-20230630-WA0019](https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/be3e0987-0c2f-4860-9bb4-7b7eee6a7ba2)
 
+![IMG-20230630-WA0021](https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/68469ad5-ead7-4dfe-9496-acc263b25d97)
+
+![IMG-20230630-WA0035](https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/d3e9351c-582c-4707-8c85-8fcbf51c144a)
+
+![IMG-20230630-WA0042](https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/f724bfab-e6af-4372-9d3e-80f96e65a4ce)
+
+![IMG-20230630-WA0016](https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/7d4bd778-ac08-4853-87dd-4171c5db7b62)
+
+![placa IR](https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/4b8891ae-671a-46f0-b7d8-f05ed5a33f80)
 
 
 
