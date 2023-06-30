@@ -63,6 +63,8 @@ E mais protótipos de caixas plasticas:
 
 ![IMG-20230630-WA0033](https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/a1a2eeb6-a988-4d36-9bd5-1159e18946c0)
 
+![Captura de tela 2023-06-30 164343](https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/03ff0c9a-5942-4d61-8fbe-e9d93dbdb650)
+
 ![IMG-20230630-WA0034](https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/c737442c-6e6b-4523-b388-f543a898eaa4)
 
 ![IMG_20150424_171312](https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/8eb25a58-5b4a-4473-bb9c-cc7084d5b64c)
