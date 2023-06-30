@@ -89,6 +89,8 @@ E mais protótipos de caixas plasticas:
 
 ![IMG-20230630-WA0019](https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/be3e0987-0c2f-4860-9bb4-7b7eee6a7ba2)
 
+![Captura de tela 2023-06-30 163253](https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/757e5d3e-cf09-4c16-bea0-2887762fc3f2)
+
 ![IMG-20230630-WA0021](https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/68469ad5-ead7-4dfe-9496-acc263b25d97)
 
 ![IMG-20230630-WA0035](https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/d3e9351c-582c-4707-8c85-8fcbf51c144a)
@@ -100,7 +102,11 @@ E mais protótipos de caixas plasticas:
 ![placa IR](https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/4b8891ae-671a-46f0-b7d8-f05ed5a33f80)
 
 
+# Módulo RF (Radio Frequência):
 
+![Captura de tela 2023-06-30 163457](https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/c9584f7d-440f-410b-966a-4b108ec1e499)
+
+![Captura de tela 2023-06-30 163521](https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/3b5db721-c512-43d0-be48-ec9ce8f6fdbb)
 
 
 
