@@ -33,6 +33,9 @@ Para amantes de home theater, iria adorar essa funcionalidade. Com o controle de
 Crie cenários personalizados para diferentes momentos do dia. Configure um cenário de "Bem-vindo" que acenda as luzes, reproduza música suave e ajuste a temperatura quando você chegar em
 
 # Imagens do projeto
+
+Abaixo imagens dos circuitos, caixas plasticas, circuitos impressos, protótipos e vários materiais que desenvolvi na época.
+
 ### Aplicativo para smartphone:
 
 ![Tela-Princ-New](https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/e5b7444a-5adf-42de-b62a-0ce554c34d97)
