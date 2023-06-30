@@ -59,7 +59,7 @@ E mais protótipos de caixas plasticas:
 ![minha-placa](https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/b6e04f70-626e-4140-81c5-7621fd6ea297)
 
 
-# Módulo relé wifi (prototipo):
+# Módulo relé wifi:
 
 ![IMG-20230630-WA0033](https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/a1a2eeb6-a988-4d36-9bd5-1159e18946c0)
 
