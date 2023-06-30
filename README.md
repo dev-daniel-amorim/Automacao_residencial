@@ -48,6 +48,8 @@ E mais protótipos de caixas plasticas:
 
 ### Módulo Central:
 
+![IMG-20230630-WA0053](https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/d7fb635e-9837-429b-a40f-a68df4f75d2d)
+
 ![placa central](https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/597d287c-f831-476a-baa7-f7f4403bc630)
 
 ![minha-placa](https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/b6e04f70-626e-4140-81c5-7621fd6ea297)
