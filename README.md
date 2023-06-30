@@ -52,6 +52,8 @@ E mais protótipos de caixas plasticas:
 
 # Módulo Central:
 
+O módulo central master controla todas as placas slaves que comandam todos os recursos da automação.
+
 ![IMG-20230630-WA0053](https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/d7fb635e-9837-429b-a40f-a68df4f75d2d)
 
 ![placa central](https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/597d287c-f831-476a-baa7-f7f4403bc630)
@@ -60,6 +62,8 @@ E mais protótipos de caixas plasticas:
 
 
 # Módulo relé wifi:
+
+Módulo relé liga e desliga os mais variados tipos de de equipamentos ON/OFF, além de controlar abertura e fechamento de persianas.
 
 ![IMG-20230630-WA0033](https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/a1a2eeb6-a988-4d36-9bd5-1159e18946c0)
 
@@ -78,6 +82,8 @@ E mais protótipos de caixas plasticas:
 
 # Módulo dimmer WiFi:
 
+Módulo dimmer Wifi possui 8 canais e controla o brilho de lampadas possibilitando ajustes de cenários. 
+
 ![SmartSelect_20220503-061755_Instagram](https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/1316ccc0-53c6-4d58-a470-74af765d5ef3)
 
 ![Captura de tela 2023-06-30 164133](https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/b6812b53-3e1e-4f94-859b-09625b0fd012)
@@ -91,6 +97,8 @@ E mais protótipos de caixas plasticas:
 
 
 # Módulo Infra-vermelho:
+
+Controla equipamentos IR como som, Tvs, ar-condicionados e qualquer aparelho IR.
 
 ![IMG-20230630-WA0019](https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/be3e0987-0c2f-4860-9bb4-7b7eee6a7ba2)
 
@@ -108,6 +116,8 @@ E mais protótipos de caixas plasticas:
 
 
 # Módulo RF (Radio Frequência):
+
+Controle de equipamentos RF como portões automáticos.
 
 ![Captura de tela 2023-06-30 163457](https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/c9584f7d-440f-410b-966a-4b108ec1e499)
 
