@@ -86,6 +86,9 @@ E mais protótipos de caixas plasticas:
 
 ![dimer](https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/a268b762-5035-4721-acc6-20f882049b89)
 
+![Captura de tela 2023-06-30 165441](https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/369eb54c-c78b-4a04-9f29-c7cb43d16409)
+
+
 
 # Módulo Infra-vermelho:
 
