@@ -39,6 +39,43 @@ Crie cenários personalizados para diferentes momentos do dia. Configure um cen�
 
 ![caixas plasticas](https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/2c497cce-4661-492b-ab71-ab2bc1b07a57)
 
+E mais protótipos de caixas plasticas:
+
+![PROJETO CENTRAL](https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/491f262f-e814-491e-a644-61a22c60e544)
+
+
+# Circuitos
+
+### Módulo Central:
+
+![placa central](https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/597d287c-f831-476a-baa7-f7f4403bc630)
+
+![minha-placa](https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/b6e04f70-626e-4140-81c5-7621fd6ea297)
+
+
+### Módulo relé wifi (prototipo):
+
+![IMG_20150424_171312](https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/8eb25a58-5b4a-4473-bb9c-cc7084d5b64c)
+
+Circuitos:
+
+![placa rele](https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/77d301c2-b4bc-4604-ae53-c76860799d5d)
+
+![Circuito Rele](https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/6fb3e50f-17ee-449b-9577-8cd64f7b1526)
+
+![Circuito Rele sem leds](https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/2d2144ed-238e-4ac1-a54b-bd2289ff8d3c)
+
+
+### Módulo dimmer WiFi:
+
+![dimer](https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/a268b762-5035-4721-acc6-20f882049b89)
+
+
+
+
+
+
+
 
 
 
