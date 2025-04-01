@@ -38,7 +38,7 @@ Abaixo imagens dos circuitos, caixas plasticas, circuitos impressos, protótipos
 
 ### Aplicativo para smartphone:
 
-<img src="[https://github.com/user-attachments/assets/2c2344e8-748a-4913-b262-9bd2a68a4a77](https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/e5b7444a-5adf-42de-b62a-0ce554c34d97)" style="width:40%;">
+<img src="https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/e5b7444a-5adf-42de-b62a-0ce554c34d97" style="width:40%;">
 
 ![Tela-Princ-New](https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/e5b7444a-5adf-42de-b62a-0ce554c34d97)
 
