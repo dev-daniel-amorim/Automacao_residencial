@@ -96,6 +96,10 @@ Módulo dimmer Wifi possui 8 canais e controla o brilho de lampadas possibilitan
 
 
 
+https://github.com/user-attachments/assets/b5ac8e57-8c08-4d72-baed-0d0c28669597
+
+
+
 # Módulo Infra-vermelho:
 
 Controla equipamentos IR como som, Tvs, ar-condicionados e qualquer aparelho IR.
