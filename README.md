@@ -38,13 +38,14 @@ Abaixo imagens dos circuitos, caixas plasticas, circuitos impressos, protótipos
 
 ### Aplicativo para smartphone:
 
-<img src="https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/e5b7444a-5adf-42de-b62a-0ce554c34d97" style="width:40%;">
-
-![Tela-Princ-New](https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/e5b7444a-5adf-42de-b62a-0ce554c34d97)
+<img src="https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/e5b7444a-5adf-42de-b62a-0ce554c34d97" style="width:30%;">
 
 ### Caixa plástica para acomodar a central de automação:
 
-![caixas plasticas](https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/2c497cce-4661-492b-ab71-ab2bc1b07a57)
+<img src="" style="width:30%;">
+
+<img src="https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/2c497cce-4661-492b-ab71-ab2bc1b07a57" style="width:30%;">
+
 
 E mais protótipos de caixas plasticas:
 
