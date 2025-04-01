@@ -37,69 +37,76 @@ Crie cenários personalizados para diferentes momentos do dia. Configure um cen�
 Abaixo imagens dos circuitos, caixas plasticas, circuitos impressos, protótipos e vários materiais que desenvolvi na época.
 
 ### Aplicativo para smartphone:
+<p align="center">
+  <img src="https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/e5b7444a-5adf-42de-b62a-0ce554c34d97" style="width:30%;">
+</p>
 
-<img src="https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/e5b7444a-5adf-42de-b62a-0ce554c34d97" style="width:30%;">
+### Caixa plástica para acomodar a central de automação (clique para ampliar):
 
-### Caixa plástica para acomodar a central de automação:
-
-<img src="" style="width:30%;">
-
-<img src="https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/2c497cce-4661-492b-ab71-ab2bc1b07a57" style="width:30%;">
-
-
-E mais protótipos de caixas plasticas:
-
-![PROJETO CENTRAL](https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/491f262f-e814-491e-a644-61a22c60e544)
-
+<p align="center">
+  <img src="https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/2c497cce-4661-492b-ab71-ab2bc1b07a57" width="29%" />
+  <img src="https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/491f262f-e814-491e-a644-61a22c60e544" width="25%" />
+</p>
 
 
 # Módulo Central:
 
 O módulo central master controla todas as placas slaves que comandam todos os recursos da automação.
+<br>
 
-![IMG-20230630-WA0053](https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/d7fb635e-9837-429b-a40f-a68df4f75d2d)
+<p align="center">
+  <img src="https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/d7fb635e-9837-429b-a40f-a68df4f75d2d" width="29%" />
+</p>
 
-![placa central](https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/597d287c-f831-476a-baa7-f7f4403bc630)
+# Circuito impresso:
 
-![minha-placa](https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/b6e04f70-626e-4140-81c5-7621fd6ea297)
-
+<p align="center">
+  <img src="https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/597d287c-f831-476a-baa7-f7f4403bc630" width="21%" />
+  <img src="https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/b6e04f70-626e-4140-81c5-7621fd6ea297" width="35%" />
+</p>
 
 # Módulo relé wifi:
 
 Módulo relé liga e desliga os mais variados tipos de de equipamentos ON/OFF, além de controlar abertura e fechamento de persianas.
 
-![IMG-20230630-WA0033](https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/a1a2eeb6-a988-4d36-9bd5-1159e18946c0)
+<p align="center">
+  <img src="https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/a1a2eeb6-a988-4d36-9bd5-1159e18946c0" width="25%" />
+  <img src="https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/c737442c-6e6b-4523-b388-f543a898eaa4" width="25%" />
+  <img src="https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/03ff0c9a-5942-4d61-8fbe-e9d93dbdb650" width="26%" />
+  <img src="https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/8eb25a58-5b4a-4473-bb9c-cc7084d5b64c" width="25%" />
+</p>
+<br>
 
-![Captura de tela 2023-06-30 164343](https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/03ff0c9a-5942-4d61-8fbe-e9d93dbdb650)
+### Circuitos:
 
-![IMG-20230630-WA0034](https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/c737442c-6e6b-4523-b388-f543a898eaa4)
-
-![IMG_20150424_171312](https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/8eb25a58-5b4a-4473-bb9c-cc7084d5b64c)
-
-![placa rele](https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/77d301c2-b4bc-4604-ae53-c76860799d5d)
-
-![Circuito Rele](https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/6fb3e50f-17ee-449b-9577-8cd64f7b1526)
-
-![Circuito Rele sem leds](https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/2d2144ed-238e-4ac1-a54b-bd2289ff8d3c)
+<p align="center">
+  <img src="https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/77d301c2-b4bc-4604-ae53-c76860799d5d" width="20%" />
+  <img src="https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/6fb3e50f-17ee-449b-9577-8cd64f7b1526" width="25%" />
+  <img src="https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/2d2144ed-238e-4ac1-a54b-bd2289ff8d3c" width="25%" />
+</p>
 
 
 # Módulo dimmer WiFi:
 
 Módulo dimmer Wifi possui 8 canais e controla o brilho de lampadas possibilitando ajustes de cenários. 
 
-![SmartSelect_20220503-061755_Instagram](https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/1316ccc0-53c6-4d58-a470-74af765d5ef3)
+<p align="center">
+  <img src="https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/1316ccc0-53c6-4d58-a470-74af765d5ef3" width="29%" />
+  <img src="https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/b6812b53-3e1e-4f94-859b-09625b0fd012" width="25%" />
+  <img src="https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/24b0c6e8-610e-428a-9428-99c8897fbb08" width="25%" />
+</p>
 
-![Captura de tela 2023-06-30 164133](https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/b6812b53-3e1e-4f94-859b-09625b0fd012)
-
-![IMG-20230630-WA0036](https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/24b0c6e8-610e-428a-9428-99c8897fbb08)
-
-![dimer](https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/a268b762-5035-4721-acc6-20f882049b89)
-
-![Captura de tela 2023-06-30 165441](https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/369eb54c-c78b-4a04-9f29-c7cb43d16409)
+Circuitos:
 
 
+<p align="center">
+  <img src="https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/a268b762-5035-4721-acc6-20f882049b89" width="29%" />
+  <img src="https://github.com/dev-daniel-amorim/Automacao_residencial/assets/115194365/369eb54c-c78b-4a04-9f29-c7cb43d16409" width="22%" />
+</p>
 
-https://github.com/user-attachments/assets/b5ac8e57-8c08-4d72-baed-0d0c28669597
+Vídeo:
+
+https://github.com/user-attachments/assets/33452934-7ebe-4a05-aff6-e1db97a0cb4c
 
 
 
